@@ -6,6 +6,8 @@ public class Test {
 
 		System.out.println("-------------我修改了文件--------------");
 
+		System.out.println("-------------我定版本了V1.0.0--------------");
+
 	}
 
 	/**
