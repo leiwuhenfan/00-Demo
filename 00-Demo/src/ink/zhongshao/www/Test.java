@@ -7,8 +7,10 @@ public class Test {
 		System.out.println("-------------我修改了文件--------------");
 
 		System.out.println("-------------我定版本了V1.0.0--------------");
-		
+
 		System.out.println("-------------我是branch1分支，修改的文件--------------");
+
+		System.out.println("-------------我是branch1分支，dubbo的git目录之后提交，测试是否正确--------------");
 
 	}
 
