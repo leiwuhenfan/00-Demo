@@ -12,16 +12,19 @@ public class Demo2 {
 		List<String> datas = new ArrayList<>();
 		System.out.println(datas);
 		
-		
-		
 		kl.listg(datas);
 
-		System.out.println(datas);
+		System.out.println("经过listg方法后,datas = "+datas);
 	}
 
 	public void listg(List<String> datas) {
 		datas.add("1");
+		
+		System.out.println("listg方法里面的记录1="+datas);
+		
 		datas = new ArrayList<>();
+		
+		System.out.println("listg方法里面的记录2="+datas);
 	}
 
 }
