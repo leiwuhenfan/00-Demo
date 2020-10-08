@@ -11,6 +11,8 @@ public class Test {
 		System.out.println("-------------我是branch1分支，修改的文件--------------");
 
 		System.out.println("-------------我是branch1分支，dubbo的git目录之后提交，测试是否正确--------------");
+		
+		
 
 	}
 
